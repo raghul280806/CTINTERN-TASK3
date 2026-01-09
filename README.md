@@ -21,3 +21,4 @@ The deposit function allowed users to send ETH into the contract. The borrow fun
 This task clearly demonstrated how DeFi eliminates intermediaries and automates financial operations using blockchain technology. It provided real-world exposure to decentralized applications and strengthened understanding of Ethereum-based finance systems.
 
 OUTPUT:
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b5c4044a-25d5-4ffe-816a-a8a19881fee2" />
