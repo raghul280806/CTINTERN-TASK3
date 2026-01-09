@@ -22,3 +22,4 @@ This task clearly demonstrated how DeFi eliminates intermediaries and automates 
 
 OUTPUT:
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b5c4044a-25d5-4ffe-816a-a8a19881fee2" />
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/60ad662a-77ff-430e-b2a8-94d166dd12ce" />
